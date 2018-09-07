@@ -1,6 +1,6 @@
 ﻿#Tags Semanticas
 ---
-`<header>` representa o cabeçalho de uma seção ou de um documento, nele pode-se inserir elementos de **<h1>** e seus derivados, tembém sendo possivel inserir tags para represenar imagens, listas e paragrafos.
+`<header>` representa o cabeçalho de uma seção ou de um documento, nele pode-se inserir elementos de `<h1>` e seus derivados, tembém sendo possivel inserir tags para represenar imagens, listas e paragrafos.
 `<section>` é a tag de seção e geralmente possuí um título, também usada para desecrever tópicos de um documento.
 `<article>` declara um conteúdo que faz sentido por si só, para cada `article` é recomendado possuir um título.
 `<nav>`é a representação de um grupo de links de navegação contidos numa lista.
