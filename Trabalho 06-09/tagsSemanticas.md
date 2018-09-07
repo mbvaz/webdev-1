@@ -1,4 +1,4 @@
-﻿#Tags Semanticas
+﻿#Tags Semanticas - Maurício Brito Vaz
 ---
 `<header>` representa o cabeçalho de uma seção ou de um documento, nele pode-se inserir elementos de `<h1>` e seus derivados, tembém sendo possivel inserir tags para represenar imagens, listas e paragrafos.
 
